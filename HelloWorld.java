@@ -3,4 +3,8 @@ class HelloWorld{
 
 	int id;
 	String name;
+
+	// デフォルトコンストラクタ
+	HelloWorld(){	
+	}
 }
